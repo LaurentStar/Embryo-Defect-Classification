@@ -2,10 +2,16 @@
 Classification of Human Embryo defects
 
 
-Git resource link:
+# Git resource link:
 https://github.com/learn-co-students/dsc-git-bash-collab-intro-dc-ds-111819
 https://github.com/learn-co-students/dsc-bash-shell-dc-ds-111819
 https://github.com/learn-co-students/dsc-git-version-control-101-dc-ds-111819
 
 Set up git youtube
 https://www.youtube.com/watch?v=J_Clau1bYco
+
+# Data Resources
+  - Howard hospital  medical school
+  - Goerge Town medical school
+  - Local hospital (christian)
+  - Goerge washington university hospital
